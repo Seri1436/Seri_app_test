@@ -2,11 +2,11 @@
 
 소스코드 다운로드
 
-    git clone https://github.com/Seri1436/test_apps.git
+    git clone https://github.com/Seri1436/jw_app1.git
 
 python 환경변수 및 가상환경 설정
 
-    cd ./test_apps
+    cd ./jw_app1
 
     pyenv versions
 
@@ -31,7 +31,7 @@ python 환경변수 및 가상환경 설정
 
     pip install -r requirements.txt
 
-    pip list | tee requirements.txt.detail
+    # pip list | tee requirements.txt.detail
 
 예제코드 테스트
 
